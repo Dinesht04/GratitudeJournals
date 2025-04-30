@@ -1,0 +1,17 @@
+Time - 18:03
+
+Chopped
+
+Maasi's website needs reveamp - Look at caratlane, bluestone, etc. Take what's reoccurring. That small business website as well.
+Gumroad beehive for insp.
+Probably a backend, Signup,Login, Forgor Password. Cart rememberance. Cloudinary for storing media.
+
+OpenSource - Prolly gotta ask Claude how I can start working on OpenMRS' backend now that I have some idea on SpringBoot, have to
+finish up SpringBoot as well. Prompt something like this - Project Tech Stack - Folder Structure - Some sample code - how do I
+start contributing to this - change specific functions. The fact that I dont know JAVA dev that well is slowing things, but it's
+alright. Not everything comes easy. Not everything is supposed to be easy. Nothing comes easy hahahahhaha. I'm being disingenous
+for comedic purposes. A lot of things did come easily. I didn't take care of them properly.Wasn't grateful for those things. Am now.
+
+OpenSource - Also setup another existing famous repo but with my tech stack this time. JAVA slowed down things in GSOC.
+
+Dhruv is saying pinterest pe post krte but idrk about posting physique pics. I'll support bro obv.
